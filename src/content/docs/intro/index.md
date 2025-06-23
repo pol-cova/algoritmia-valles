@@ -67,7 +67,7 @@ colaborativo.
 
 ## Contacto
 
-- Sitio web: <https://algoclub.university.edu>  
+- Sitio web: <https://algoritmia-valles.vercel.app>  
 - GitHub: <https://github.com/algoritmia-valles>  
 - Correo general: `club.algoritmia@valles.udg.mx`
 
