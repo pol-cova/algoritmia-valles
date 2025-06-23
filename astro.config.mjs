@@ -9,6 +9,11 @@ import plantuml from 'astro-plantuml';
 
 // https://astro.build/config
 export default defineConfig({
+	image: {
+		service: {
+			entrypoint: 'astro/assets/services/noop'
+		}
+	},
 	integrations: [
 		mermaid(),
 		plantuml(),
