@@ -20,7 +20,9 @@ export default defineConfig({
 		starlight({
 			plugins: [starlightThemeRapide(), starlightBlog(), starlightVideos()],
 			title: 'Club Algoritmia CUValles',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight'}],
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/algoritmia-valles'},
+				{ icon: 'instagram', label: 'Instagram', href: 'https://www.instagram.com/club.algoritmia.cuvalles/'}
+			],
 			defaultLocale: 'es',
 			sidebar: [
 				{
